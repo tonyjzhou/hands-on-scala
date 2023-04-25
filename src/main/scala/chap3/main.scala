@@ -1,0 +1,1 @@
+@main def m() = println("hello world")
